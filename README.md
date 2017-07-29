@@ -1,10 +1,9 @@
 # Component-And-Layout
 # 内容：组件/懒加载/瀑布流布局/木桶布局
-* [选项卡]()
-* [轮播]()
-* [弹出框]()
-* [日历]()
-* [木桶布局]()
-* [瀑布流布局]()
-* [图片懒加载]()
-* [新闻懒加载]()
+* [选项卡](https://weinaisha.github.io/Component-And-Layout/tab.html)
+* [轮播](https://weinaisha.github.io/Component-And-Layout/rotation.html)
+* [弹出框](https://weinaisha.github.io/Component-And-Layout/modal.html)
+* [日历](https://weinaisha.github.io/Component-And-Layout/datepicker.html)
+* [木桶布局](https://weinaisha.github.io/Component-And-Layout/%E6%9C%A8%E6%A1%B6%E5%B8%83%E5%B1%80/)
+* [瀑布流布局](https://weinaisha.github.io/Component-And-Layout/%E7%80%91%E5%B8%83%E6%B5%81%E5%B8%83%E5%B1%80/jquery%E5%AE%9E%E7%8E%B0/waterfallnews.html/)
+* [懒加载](https://weinaisha.github.io/Component-And-Layout/lazyLoading.html)
