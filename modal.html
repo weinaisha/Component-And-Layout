@@ -189,16 +189,16 @@ a.btn:hover {
 
 
 $('#open1').on('click',function(){
-  Dialog.open('hello, 这里是饥人谷');
+  Dialog.open('hello, 你好');
 });
 
 $('#open2').on('click',function(){
-  Dialog.open('<a href="http://jirengu.com">饥人谷</a>');
+  Dialog.open('<a href="http://jirengu.com">title</a>');
 });
 
 $('#open3').on('click',function(){
   Dialog.open({
-    title: '欢迎来到饥人谷',
+    title: '欢迎来到召唤师峡谷',
     message: 'hello',
     isShowCloseBtn: true,
     isShowConfirmBtn: true,
@@ -214,7 +214,7 @@ $('#open3').on('click',function(){
 var tpl = '<ul><li>列表1</li><li>列表2</li><li>列表1</li><li>列表1</li></ul>';
 $('#open4').on('click',function(){
   Dialog.open({
-    title: '欢迎来到饥人谷',
+    title: '欢迎来到召唤师峡谷',
     message: tpl,
     isShowCloseBtn: true,
     isShowConfirmBtn: true,
@@ -228,7 +228,7 @@ $('#open4').on('click',function(){
 });
 $('#open5').on('click',function(){
   Dialog.open({
-    title: '欢迎来到饥人谷',
+    title: '欢迎来到召唤师峡谷',
     message: 'hello',
     isShowCloseBtn: false,
     isShowConfirmBtn: false
